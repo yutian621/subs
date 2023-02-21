@@ -40,7 +40,7 @@ dns:
 proxies:
   - name: "Hys-natjp"
     type: hysteria
-    server: 01jp.d2f.cn.eu.org:41494
+    server: 01jp.d2f.cn.eu.org
     ports: 42000-43000
     auth_str: w7up2MbWZxSbZiWHWmQQszISPuD0DkC5IJxLVxeCc5RUT57sYD
     alpn:
@@ -57,7 +57,7 @@ proxies:
 
   - name: "Hys-natla"
     type: hysteria
-    server: 02la.d2f.cn.eu.org:29579
+    server: 02la.d2f.cn.eu.org
     ports: 29600-31000
     auth_str: clzIVv6MEcBoOch9hrdiGh3sQxxce2onhvlrIejmbxIHMWPRPr
     alpn:
@@ -74,7 +74,7 @@ proxies:
 
   - name: "Hys-lasili"
     type: hysteria
-    server: 03la-sili.d2f.cn.eu.org:46061
+    server: 03la-sili.d2f.cn.eu.org
     ports: 48000-49000
     auth_str: ZCA0BF3l0Fc0BYL7TtIdo80aCMj1iHZ0yBRSmyQRi9bGDHMvr5
     alpn:
