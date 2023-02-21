@@ -95,7 +95,8 @@ proxies:
     server: vmtky.d2f.cn.eu.org
     port: 15700
     auth_str: AnotherSuperStrongP@ssw0rd
-    alpn: h3
+    alpn: 
+      - h3
     protocol: udp
     up: 55
     down: 385
