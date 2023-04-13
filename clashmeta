@@ -235,4 +235,5 @@ rules:
   - GEOIP,LAN,DIRECT
   - GEOIP,CN,DIRECT
   - DOMAIN-SUFFIX,openai.com,PROXY
+  - DOMAIN-SUFFIX,scamalytics.com,PROXY
   - MATCH,PROXY
