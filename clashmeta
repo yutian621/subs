@@ -234,4 +234,5 @@ rules:
   - RULE-SET,telegramcidr,PROXY
   - GEOIP,LAN,DIRECT
   - GEOIP,CN,DIRECT
+  - DOMAIN-SUFFIX,openai.com,PROXY
   - MATCH,PROXY
